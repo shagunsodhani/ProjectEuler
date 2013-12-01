@@ -91,7 +91,7 @@ def is_prime(n):
     if n%(f+2) == 0: return False
     f +=6
   return True
- 
+
 # Copyright (c) 2010 the authors listed at the following URL, and/or
 # the authors of referenced articles or incorporated external code:
 # http://en.literateprograms.org/Miller-Rabin_primality_test_(Python)?action=history&offset=20101013093632
